@@ -16,7 +16,7 @@ A webapp that will track budget information online or offline and is as performa
 ## Mock Up
 
 The following image shows the finished site:
-![Website]()
+![Website](./assets/Budget-Tracker.png)
 
 ---
 
