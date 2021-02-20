@@ -8,7 +8,7 @@ A webapp that will track budget information online or offline and is as performa
 
 ## Links
 
-* [Progressive Budget]()
+* [Progressive Budget](https://wessex-budget.herokuapp.com/)
 * [Github Repository](https://github.com/JonDnv/ProgressiveBudget)
   
 ---
@@ -24,4 +24,5 @@ The following image shows the finished site:
 
  1. Created Shell File Structure
  2. Imported Provided Code
- 3. 
+ 3. Set Up Heroku Application
+ 4. Completed Code for App
